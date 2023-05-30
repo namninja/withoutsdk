@@ -1,11 +1,4 @@
-import {
-  TextInput,
-  View,
-  StyleSheet,
-  Alert,
-  KeyboardAvoidingView,
-  ScrollView,
-} from 'react-native';
+import {View, StyleSheet, KeyboardAvoidingView, ScrollView} from 'react-native';
 import React, {useState} from 'react';
 import PrimaryButton from '../components/ui/PrimaryButton';
 import Title from '../components/ui/Title';
